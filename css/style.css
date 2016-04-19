@@ -1,0 +1,117 @@
+/**{outline:1px solid rgba(255,0,0,0.4);}*/
+.head1{
+    	background:#000000;
+    }
+.imagenlogo{
+	width: 120px;
+	}
+.enlaces{
+    list-style: none;
+    text-align: center;
+    padding-top: 70px;
+    }
+.enlaces li{
+    display: inline-block;
+    margin: 10px;
+}
+.enlaces a{
+	color: #FFFFFF;
+	text-decoration: none;
+	}
+.head2, .head3{
+	background: #EEEEEE;
+	padding: 20px;
+}
+.head3{
+	list-style: none;
+	position: relative;
+	padding: 0px;	
+	border-bottom: 4px solid #BBBBBB;
+}
+.fotoepi{
+	width: 100%;
+	position: relative;
+	border: 3px solid #FFFFFF;
+}
+.head3 p{
+	position: relative;
+	font-size: 20px;
+	text-align: center;
+	padding-bottom: 20px;
+}
+.head3 a{
+	text-decoration: none;
+	color: #386699;
+}
+/*.termina header{*/
+.listaf li{
+	list-style: none;
+	display:inline-block;
+	margin: 10px;
+	position: relative;
+}
+.fotito{
+	width: 115px;
+	height: 110px;
+	position: relative;
+	border: 3px solid #ffffff;
+}
+.listaf p{
+	font-size: 18px;
+	position: absolute;
+}
+.uno{
+	padding-top: 20px;
+	padding-bottom: 80px;
+}
+/*col izq*/
+h2{
+	padding-top: 50px;
+	padding-left: 0px;
+	border-bottom: 1px solid #585858;
+}
+.iconos{
+	width: 22px;
+}
+.texticonos{
+	font-size: 18px;
+	color: #336699;
+	margin: 20px;
+}
+.textoiconos2{
+	border-top: 1px solid #585858;
+	font-size: 18px;
+	color: #336699;
+	padding-top: 20px;
+}
+/*comiensa pie de pagina*/
+.piepag{
+	background: #585858;
+}
+.textopie {
+	padding: 10px;
+	font-size: 18px;
+	color: white;
+}
+.contactos{
+	list-style: none;
+	text-align: center;
+	margin: 10px;
+}
+.contactos li{
+	display: inline-block;
+	margin: 10px;
+	text-align: center;
+}
+.contactos a{
+	color: #D0D0D0;
+	font-size: 15px;
+}
+.textofin {
+	color: #808080;
+	font-size: 13px;
+	text-align: center;
+	margin: 30px;
+	
+}
+
