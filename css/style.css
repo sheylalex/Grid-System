@@ -22,6 +22,11 @@
 	background: #EEEEEE;
 	padding: 20px;
 }
+.more{
+	font-size: 15px;
+	text-decoration: none;
+	color: #386699;
+}
 .head3{
 	list-style: none;
 	position: relative;
@@ -49,6 +54,9 @@
 	display:inline-block;
 	margin: 10px;
 	position: relative;
+	text-align: center;
+	width: 115px;
+	vertical-align: top;
 }
 .fotito{
 	width: 115px;
@@ -58,12 +66,18 @@
 }
 .listaf p{
 	font-size: 18px;
-	position: absolute;
+	position:relative;
 }
-.uno{
+.listaf{
 	padding-top: 20px;
-	padding-bottom: 80px;
+	padding-bottom: 20px;
+
 }
+.listaf a{
+	text-decoration: none;
+	color: #386699;
+}
+
 /*col izq*/
 h2{
 	padding-top: 50px;
